@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MVC-Core-BookStore/bin
+/MVC-Core-BookStore/obj/Debug
+/.vs
+/MVC-Core-BookStore/.vs/MVC-Core-BookStore
